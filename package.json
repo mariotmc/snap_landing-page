@@ -1,0 +1,26 @@
+{
+  "name": "snap_landing-page",
+  "version": "1.0.0",
+  "description": "Snap landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariotmc/snap_landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariotmc/snap_landing-page/issues"
+  },
+  "homepage": "https://github.com/mariotmc/snap_landing-page",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
